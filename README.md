@@ -19,7 +19,8 @@ https://www.linkedin.com/posts/walterwlee_using-tableau-desktop-with-amazon-reds
 https://www.linkedin.com/posts/walterwlee_aws-cloudfront-demo-by-photos-and-urls-activity-6716405682893156352-Y8iQ
 
 ## pdfs stored in 
-![Collections](/site/collections/)
+
+[pdf collections](https://github.com/leewalter/my-demos/tree/master/site/collections)
 
 ## Todo
 
