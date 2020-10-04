@@ -2,7 +2,7 @@
 
 A collections of my demo by photos pdfs. It has all in one place for a single subject, e.g. urls, code, screen dumps, etc. The idea is to help you flip over the pdf easily to see all needed in that subject demo.
 
-![A screenshot](screenshot.png)
+![Google Teachable AutoML demo](/site/collections/Google_Teachable_ML_demo.pdf)
 
 ## Collections:
 
