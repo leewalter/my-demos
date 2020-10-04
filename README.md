@@ -7,20 +7,20 @@ A collections of my demo by photos pdfs. It has all in one place for a single su
 ## Collections:
 
 * Easy AutoML in 10min with Google Teachable Machine. See my simple demo by photo in below pdf.
-LinkedIn post: https://www.linkedin.com/posts/walterwlee_google-teachable-machine-learning-demo-activity-6718578496395984896-zpUo <br>
-pdf here: https://github.com/leewalter/my-demos/blob/master/site/collections/Google_Teachable_ML_demo.pdf
+  * LinkedIn post: https://www.linkedin.com/posts/walterwlee_google-teachable-machine-learning-demo-activity-6718578496395984896-zpUo 
+  * pdf here: https://github.com/leewalter/my-demos/blob/master/site/collections/Google_Teachable_ML_demo.pdf
 
 * AWS just GA Amazon Timestream. See my demo by photo pdf with all the urls/docs/demo db samples. Very easy to get started in 5min to try out !
-LinkedIn post: https://www.linkedin.com/posts/walterwlee_aws-new-time-stream-demo-activity-6717670833181065216-yNN- <br>
-pdf here: https://github.com/leewalter/my-demos/blob/master/site/collections/AWS%20new%20Time%20Stream%20demo.pdf
+  * LinkedIn post: https://www.linkedin.com/posts/walterwlee_aws-new-time-stream-demo-activity-6717670833181065216-yNN- <br>
+  * pdf here: https://github.com/leewalter/my-demos/blob/master/site/collections/AWS%20new%20Time%20Stream%20demo.pdf
 
 * #AWS #Redshift #Data #Warehouse allows many tools to #visualize it, e.g. #Tableau. See Demo by photos below. (pdf)
-LinkedIn post: https://www.linkedin.com/posts/walterwlee_using-tableau-desktop-with-amazon-redshift-activity-6716523864475742208-z-qk <br>
-pdf here: https://github.com/leewalter/my-demos/blob/master/site/collections/Using%20Tableau%20Desktop%20with%20Amazon%20Redshift.pdf
+  * LinkedIn post: https://www.linkedin.com/posts/walterwlee_using-tableau-desktop-with-amazon-redshift-activity-6716523864475742208-z-qk <br>
+  * pdf here: https://github.com/leewalter/my-demos/blob/master/site/collections/Using%20Tableau%20Desktop%20with%20Amazon%20Redshift.pdf
 
 * Retry AWS CloudFront - some new and good features, see them at https://lnkd.in/gCwbwT6 and https://lnkd.in/gG4cj-j e.g. real-time logs, lambda-at-the-edge, field level encryption, origin identity access, Brotli, http2/IPv6, Geo Restriction, etc... See below pdf for many image screen dumps, settings, etc... (pdf)
-LinkedIn post: https://www.linkedin.com/posts/walterwlee_aws-cloudfront-demo-by-photos-and-urls-activity-6716405682893156352-Y8iQ <br>
-pdf here: https://github.com/leewalter/my-demos/blob/master/site/collections/AWS%20CloudFront%20demo%20by%20photos.pdf
+  * LinkedIn post: https://www.linkedin.com/posts/walterwlee_aws-cloudfront-demo-by-photos-and-urls-activity-6716405682893156352-Y8iQ <br>
+  * pdf here: https://github.com/leewalter/my-demos/blob/master/site/collections/AWS%20CloudFront%20demo%20by%20photos.pdf
 
 ## pdfs stored in 
 
