@@ -18,14 +18,17 @@ https://www.linkedin.com/posts/walterwlee_using-tableau-desktop-with-amazon-reds
 * Retry AWS CloudFront - some new and good features, see them at https://lnkd.in/gCwbwT6 and https://lnkd.in/gG4cj-j e.g. real-time logs, lambda-at-the-edge, field level encryption, origin identity access, Brotli, http2/IPv6, Geo Restriction, etc... See below pdf for many image screen dumps, settings, etc... (pdf)
 https://www.linkedin.com/posts/walterwlee_aws-cloudfront-demo-by-photos-and-urls-activity-6716405682893156352-Y8iQ
 
+## pdfs stored in 
+![Collections](/site/collections/)
+
 ## Todo
 
 Everything really. We're just breaking ground.
 
 
-## Sample README conventions.
 
-Some common language and descriptions might be useful. What you'll find below this line
+
+
 
 ---
 
