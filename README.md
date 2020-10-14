@@ -20,7 +20,7 @@ A collections of my demo by photos pdfs. It has all in one place for a single su
 
 * Retry AWS CloudFront - some new and good features, see them at https://lnkd.in/gCwbwT6 and https://lnkd.in/gG4cj-j e.g. real-time logs, lambda-at-the-edge, field level encryption, origin identity access, Brotli, http2/IPv6, Geo Restriction, etc... See below pdf for many image screen dumps, settings, etc... (pdf)
   * LinkedIn post: https://www.linkedin.com/posts/walterwlee_aws-cloudfront-demo-by-photos-and-urls-activity-6716405682893156352-Y8iQ <br>
-  * pdf here: https://github.com/leewalter/my-demos/blob/master/site/collections/AWS%20CloudFront%20demo%20by%20photos.pdf
+  * pdf here: https://github.com/leewalter/my-demos/blob/master/site/collections/Intro%20to%20AWS%20Device%20Farm.pdf
 
 ## pdfs stored in 
 
