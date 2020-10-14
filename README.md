@@ -22,6 +22,11 @@ A collections of my demo by photos pdfs. It has all in one place for a single su
   * LinkedIn post: https://www.linkedin.com/posts/walterwlee_aws-cloudfront-demo-by-photos-and-urls-activity-6716405682893156352-Y8iQ <br>
   * pdf here: https://github.com/leewalter/my-demos/blob/master/site/collections/Intro%20to%20AWS%20Device%20Farm.pdf
 
+* Retested AWS Mobile Device Farm, see my demo by images pdf. Easy to use, a lot of devices, good logs and videos. Not sure about pricing ?
+Main - https://lnkd.in/gZ8MMCE
+  * LinkedIn post: https://www.linkedin.com/posts/walterwlee_aws-mobile-device-testing-farm-intro-in-10-activity-6721095924560470016-ozR8 <br>
+  * pdf here: https://github.com/leewalter/my-demos/blob/master/site/collections/Intro%20to%20AWS%20Device%20Farm.pdf
+  
 ## pdfs stored in 
 
 [pdf collections](https://github.com/leewalter/my-demos/tree/master/site/collections)
