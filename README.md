@@ -26,6 +26,11 @@ A collections of my demo by photos pdfs. It has all in one place for a single su
 Main - https://lnkd.in/gZ8MMCE
   * LinkedIn post: https://www.linkedin.com/posts/walterwlee_aws-mobile-device-testing-farm-intro-in-10-activity-6721095924560470016-ozR8 <br>
   * pdf here: https://github.com/leewalter/my-demos/blob/master/site/collections/Intro%20to%20AWS%20Device%20Farm.pdf
+
+* Sysdig on AWS demo
+Main - https://sysdig.awsworkshop.io/
+  * LinkedIn post: https://www.linkedin.com/posts/walterwlee_sysdig-demo-on-aws-activity-6808628390732664832-uozd <br>
+  * pdf here: https://github.com/leewalter/my-demos/blob/master/site/collections/Sysdig%20on%20AWS%20demo.pdf
   
 ## pdfs stored in 
 
